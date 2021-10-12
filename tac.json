@@ -5,15 +5,15 @@
         "tac_trackpack": {
             "description": "Xshinden ARM Challenge Tracks",
             "version": "21.0930",
-            "checksum": "4f10d497da32b4d9578d8a040264c564f1af1b0cc78e95342db2094a887d59e8",
-            "url": "https://cdn-133.bayfiles.com/T31aybN9u2/4c49d1ed-1634076207/Arene_TAC.zip",
+            "checksum": "dd6aad6d835a20bf398f35313b4139889654fcf9e6dcb2a8db1cedd8d4bd95fd",
+            "url": "https://cdn-132.bayfiles.com/jfC9yaNcu0/c7599fe3-1634078519/Arene_TAC.zip",
             "file": "Arene_TAC.zip"
         },
         "tac-carpack": {
             "description": "Xshinden ARM Challenge Cars",
             "version": "21.0930",
-            "checksum": "015a5b609325474118b2b4af5acf0b5998db35249d815864df9fbc86b4fa0892",
-            "url": "https://cdn-105.bayfiles.com/76z5yeNbu0/d9d35650-1634075875/TAC_Harvester_Pack.zip",
+            "checksum": "fc15270dd76380efd75d40370a750e472134238db8a31b9dfb67fe277c5be74a",
+            "url": "https://cdn-132.bayfiles.com/ddC9y2N6u9/923bbf82-1634078478/TAC_Harvester_Pack.zip",
             "file": "TAC_Harvester_Pack.zip"
         }
     },
