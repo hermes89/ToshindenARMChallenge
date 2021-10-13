@@ -6,14 +6,14 @@
             "description": "Xshinden ARM Challenge Tracks",
             "version": "21.0930",
             "checksum": "dd6aad6d835a20bf398f35313b4139889654fcf9e6dcb2a8db1cedd8d4bd95fd",
-            "url": "www.aliasrevoltmaster.com/​downloads/​launcher/Arene_TAC.zip",
+            "url": "www.aliasrevoltmaster.com/downloads/launcher/Arene_TAC.zip",
             "file": "Arene_TAC.zip"
         },
         "tac-carpack": {
             "description": "Xshinden ARM Challenge Cars",
             "version": "21.0930",
             "checksum": "fc15270dd76380efd75d40370a750e472134238db8a31b9dfb67fe277c5be74a",
-            "url": "www.aliasrevoltmaster.com/​downloads/​launcher/TAC_Harvester_Pack.zip",
+            "url": "www.aliasrevoltmaster.com/downloads/launcher/TAC_Harvester_Pack.zip",
             "file": "TAC_Harvester_Pack.zip"
         }
     },
